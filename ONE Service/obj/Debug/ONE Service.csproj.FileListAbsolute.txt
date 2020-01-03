@@ -1,0 +1,16 @@
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\ONE Service.exe.config
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\ONE Service.exe
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\ONE Service.pdb
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\Quartz.dll
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\Quartz.pdb
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\Quartz.xml
+C:\Users\luis orostizaga\source\repos\ONE Service\obj\Debug\ONE Service.csprojAssemblyReference.cache
+C:\Users\luis orostizaga\source\repos\ONE Service\obj\Debug\ONE Service.csproj.CopyComplete
+C:\Users\luis orostizaga\source\repos\ONE Service\obj\Debug\ONE Service.exe
+C:\Users\luis orostizaga\source\repos\ONE Service\obj\Debug\ONE Service.pdb
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\Common.Logging.Core.dll
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\Common.Logging.dll
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\Common.Logging.pdb
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\Common.Logging.xml
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\Common.Logging.Core.pdb
+C:\Users\luis orostizaga\source\repos\ONE Service\bin\Debug\Common.Logging.Core.xml
